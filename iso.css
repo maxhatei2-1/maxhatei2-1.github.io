@@ -1,0 +1,12 @@
+.FontApply {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+.Background {
+    background-image: url("https://i0.wp.com/www.viwic.fr/wp-content/uploads/images/win_10_fond_ecran_16.jpg?w=1250");
+    background-size:cover;
+  }
+.Text {
+    
+        color: rgb(255, 255, 255);
+    
+}
