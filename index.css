@@ -1,3 +1,9 @@
 .FontApply {
     font-family: Arial, Helvetica, sans-serif;
   }
+.Background {
+  background-image: url("https://wallpapercave.com/wp/wp5569650.jpg");
+}
+.Text {
+  color: rgb(255, 255, 255);
+}
