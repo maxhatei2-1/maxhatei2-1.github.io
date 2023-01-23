@@ -3,6 +3,7 @@
   }
 .Background {
   background-image: url(https://wallpapercave.com/wp/wp5569650.jpg);
+  background-size:cover;
 }
 .Text {
   color: rgb(255, 255, 255);
