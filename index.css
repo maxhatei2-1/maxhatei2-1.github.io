@@ -2,9 +2,7 @@
     font-family: Arial, Helvetica, sans-serif;
   }
 .Background {
-  background-image: url(https://th.bing.com/th/id/R.6b40c0b66df0413575745987dc87379c?rik=DXkwU4BEmP%2bAbQ&riu=http%3a%2f%2fwww.tokkoro.com%2fpicsup%2f2639493-antelope-canyon-4k-image-hd.jpg&ehk=O5OhwE9uo2Z%2fvc3JC%2bYnf93AvqMhNaOTTRCzR%2fukQhE%3d&risl=&pid=ImgRaw&r=0);
-  background-size: 100%, auto;
-  background-size: 100vw 100vh;
+  background-image:linear-gradient(to right, rgb(17, 0, 55) , rgb(255, 0, 255));
 
 }
 .Text {
